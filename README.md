@@ -1,5 +1,5 @@
 # MODBUS-RTU-TESTER
-A simple GUI test application for Modbus RTU protocol
+A very simple GUI test application for Modbus RTU protocol
 
 Commands avaiable:
 - Write single coil
